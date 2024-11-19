@@ -10,11 +10,12 @@ import sqlite3
 from datetime import datetime
 import csv
 import pdf
+
 <<<<<<< HEAD
 
 =======
 >>>>>>> d78f0ab6d83a17570d2b19c0455bfbe9cb69eb58
-
+import xml
 
 def extract(url, table_attribs):
     ''' The purpose of this function is to extract the required
