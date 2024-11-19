@@ -9,7 +9,7 @@ import numpy as np
 import sqlite3
 from datetime import datetime
 import csv
-
+import pdf
 
 
 def extract(url, table_attribs):
